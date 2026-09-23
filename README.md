@@ -17,12 +17,6 @@ Currently working in financial and FX analytics while building modern data and A
 ### Agentic Financial Analytics Assistant
 LLM-powered financial analytics system combining SQL analytics, RAG, multi-agent orchestration, LangGraph workflows, human-in-the-loop approval, guardrails, evaluation, and cloud deployment.
 
-### Transaction Analytics Warehouse
-End-to-end analytics engineering project using Snowflake, dbt, dimensional modeling and Power BI.
-
-### Product Experimentation & A/B Testing
-Experiment analysis using Python and SQL with hypothesis testing, confidence intervals, statistical power and business decision-making.
-
 ## Tech
 
 SQL • Python • BigQuery • GCP • Snowflake • dbt • Power BI • Tableau  
